@@ -1,0 +1,6 @@
+﻿Name,Quantity,Component
+"Uinside 1",1," Arduino Uno R3"
+"DISTfront, DISTback",2," Ultrasonic Distance Sensor"
+"M2, M1",2," DC Motor"
+"U1",1," H-bridge Motor Driver"
+"BAT1",1," 9V Battery"
