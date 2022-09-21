@@ -8,6 +8,4 @@ the code on the arduino covers the following features:
     -> start turning
   -> if the object starts moving 
     -> start moving in front 
-
-
-futher modules with 3 and 4 ultrasonic sensors will be added soon
+ 
